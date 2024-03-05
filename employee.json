@@ -1,0 +1,229 @@
+{
+    "faculty": [
+        {
+            "name": "Dr Kasa Ravindra",
+            "emp_id": "MRUE2084T939",
+            "designation": "Dean, School of Engineering"
+        },
+        {
+            "name": "Dr. Harikrishna Kamatham",
+            "emp_id": "MRUE2212T162",
+            "designation": "Associate Dean, School of Engineering"
+        },
+        {
+            "name": "Dr.Meeravali shaik",
+            "emp_id": "MRUE2009T005",
+            "designation": "HOD"
+        },
+        {
+            "name": "Dr.G.Nanda Kishore Kumar",
+            "emp_id": "MRUE2101T009",
+            "designation": "Professor & Controller of Examinations"
+        },
+        {
+            "name": "Dr.M.Narayanan",
+            "emp_id": "MRUE2209T131",
+            "designation": "Professor"
+        },
+        {
+            "name": "Dr.P.Rambabu",
+            "emp_id": "MRUE2201T066",
+            "designation": "Professor"
+        },
+        {
+            "name": "Dr.Arun Singh Chouhan",
+            "emp_id": "MRUE2009T004",
+            "designation": "Associate Professor"
+        },
+        {
+            "name": "Dr.M.Ravikanth",
+            "emp_id": "MRUE2101T010",
+            "designation": "Associate Professor"
+        },
+        {
+            "name": "Dr.M.Santhosh Kumar Goud",
+            "emp_id": "MRUE2109T047",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Dr.B.Jogeswara Rao",
+            "emp_id": "MRUE2203T081",
+            "designation": "Associate Professor"
+        },
+        {
+            "name": "Dr. T. Phanindra",
+            "emp_id": "MRUE2211T150",
+            "designation": "Associate Professor"
+        },
+        {
+            "name": "Dr. P. Aurchana",
+            "emp_id": "MRUE2110T053",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Dr. K. Asish Vardhan",
+            "emp_id": "MRUE2304T204",
+            "designation": "Associate Professor"
+        },
+        {
+            "name": "Dr. K. Sai Kumar",
+            "emp_id": "MRUE2304T197",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Dr. Gowtham Mamidisetti",
+            "emp_id": "MRUE2305T219",
+            "designation": "Associate Professor"
+        },
+        {
+            "name": "Dr.Sathish Kumar R",
+            "emp_id": "MRUE2305T220",
+            "designation": "Associate Professor"
+        },
+        {
+            "name": "Mr. Naveen Kumar Navuri",
+            "emp_id": "MRUE2109T041",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mr. G. Raju",
+            "emp_id": "MRUE2110T050",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mr. M.Krishna Kishore",
+            "emp_id": "MRUE2110T046",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs.D.Suneetha",
+            "emp_id": "MRUE2109T034",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs.T.Indira Priyadarshini",
+            "emp_id": "MRUE2209T129",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs. P.Sabitha",
+            "emp_id": "MRUE2205T097",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs. B. Tejaswi",
+            "emp_id": "MRUE2209T130",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mr.T.Srajan Kumar",
+            "emp_id": "MRUE2212T168",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mr. N.V.Krishna Rao",
+            "emp_id": "MRUE2208T114",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs. P.Shyamala",
+            "emp_id": "MRUE2208T112",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mr. M.Gouthamm",
+            "emp_id": "MRUE2111T060",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs.M.Mounika",
+            "emp_id": "MRUE2211T156",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mr.G.Trinadha Rao",
+            "emp_id": "MRUE2303T180",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs.S.Monika",
+            "emp_id": "MRUE2211T159",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs. S.Sowmya",
+            "emp_id": "MRUE2207T109",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mr.M.Rakesh",
+            "emp_id": "MRUE2208T120",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs. K. Manasa",
+            "emp_id": "MRUE2108T028",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mr. G. Kishore Kumar",
+            "emp_id": "MRUE2303T187",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs. Yamini Kodali",
+            "emp_id": "MRUE2304T200",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mr. B. Hari",
+            "emp_id": "MRUE2304T203",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs. C.N. Raja Lakshmi",
+            "emp_id": "MRUE2304T201",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs. Gandu Lavanya",
+            "emp_id": "MRUE2304T210",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs. Pathigadapa Shilpa",
+            "emp_id": "MRUE2304T211",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mr. K. Venakata Naga Sreedhar",
+            "emp_id": "MRUE2305T217",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mr. B. Narasimha Reddy",
+            "emp_id": "MRUE2305T222",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs. Preethi Reddy V",
+            "emp_id": "MRUE2306T229",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mr. K. Sreekanth",
+            "emp_id": "",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mrs. Sagharika",
+            "emp_id": "",
+            "designation": "Assistant Professor"
+        },
+        {
+            "name": "Mr. P. Vamshi krishna",
+            "emp_id": "",
+            "designation": "Assistant Professor"
+        }
+    ]
+}
